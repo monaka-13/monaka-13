@@ -1,5 +1,8 @@
 # Kay Shigenaga
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20monaka-13)](https://github.com/monaka-13)
+[![LinkedIn](https://img.shields.io/badge/--FFFFFF?style=social)]([https://github.com/monaka-13](https://www.linkedin.com/in/kay-shigenaga-501848342/))
+
+
 
 ## Profile
 - 💬 Name: Kay Shigenaga (or Keisuke Shigenaga, 重永桂典)
