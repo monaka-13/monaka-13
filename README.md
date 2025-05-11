@@ -27,7 +27,7 @@
 - BackEnd
   - <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
   - <img src="https://img.shields.io/badge/-PHP-777BB4.svg?logo=php&style=plastic"> <img src="https://img.shields.io/badge/-Cakephp-D33C43.svg?logo=cakephp&style=plastic"> <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic">
-  - <img src="https://img.shields.io/badge/-C#-5C2D91.svg?logo=dot-net&style=plastic"> <img src="https://img.shields.io/badge/-.NET-5C2D91.svg?logo=dot-net&style=plastic">
+  - <img src="https://img.shields.io/badge/-C%20Sharp-5C2D91.svg?logo=dot-net&style=plastic"> <img src="https://img.shields.io/badge/-.NET-5C2D91.svg?logo=dot-net&style=plastic">
 
 - DB
   - <img src="https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazon-aws&style=plastic"> <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6.svg?logo=microsoftazure&style=plastic">
