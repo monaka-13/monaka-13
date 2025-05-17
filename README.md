@@ -1,4 +1,6 @@
 # Kay Shigenaga
+[my Portfolio Site](https://portfolio-lc78p32rv-monaka-13s-projects.vercel.app/)
+
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20monaka-13)](https://github.com/monaka-13)
 [![LinkedIn](https://img.shields.io/badge/--FFFFFF?style=social&label=LinkedIn)]([https://github.com/monaka-13](https://www.linkedin.com/in/kay-shigenaga-501848342/))
 
